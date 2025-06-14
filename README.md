@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/t0UmRdo0)
-:point_right: PUT YOUR CI BADGE HERE
+:point_right: [![Quality Gate Status](http://c1.etsisi.upm.es:8888/api/project_badges/measure?project=ETSISI-EMS_ems2025-lab-3-mantenibilidad-repe-CrunchyBacon325_0fdde31b-4669-4666-be6b-d69e1d370e7a&metric=alert_status&token=sqb_b2943ffefbc8bd9808acec17c0a5f245f86340f3)](http://c1.etsisi.upm.es:8888/dashboard?id=ETSISI-EMS_ems2025-lab-3-mantenibilidad-repe-CrunchyBacon325_0fdde31b-4669-4666-be6b-d69e1d370e7a)
 
 # EMS-lab3 Maintainability
 
